@@ -1,0 +1,8 @@
+{
+    "identifier": "ubnt_inform",
+    "name": "Unifi Inform",
+    "author": "rbradley0",
+    "license": "MIT",
+    "description": "A Plugin used to interact with the Unifi Inform Protocol.",
+    "version": "0.0.1"
+}
