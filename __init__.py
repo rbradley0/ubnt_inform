@@ -16,10 +16,10 @@ from flask import Blueprint, request
 from flask_plugins import connect_event
 from .inform import *
 
-__plugin__ = "UbntInform"
+__plugin__ = "ubnt_inform"
 __version__ = "0.0.1"
 
-ubnt_inform = Blueprint("ubntinform", __name__, template_folder='templates')
+ubnt_inform = Blueprint("ubnt_inform", __name__, template_folder='templates')
 
 @ubnt_inform.route("/")
 def index():
