@@ -13,7 +13,6 @@ Credit: Eric W <Brontide@GitHub>, Felix Kaiser <fxkr@GitHub>, Jeffery Kog <jeffe
 '''
 
 from flask import Blueprint, request
-from flask_plugins import connect_event
 from .inform import *
 
 __plugin__ = "ubnt_inform"
@@ -31,6 +30,6 @@ def inform():
     inform = Packet(from_packet=data)
     print(inform)
 
-class UbntInform(WebPlugin):
+class InformServer(WebPlugin):
     def setup(self):
         self.register_blueprint(ubnt_inform, url_prefix='/')

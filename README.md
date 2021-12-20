@@ -7,3 +7,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 Extremely WIP plugin and by no means guaranteed to be safe whatsoever, use as your own risk.
 
 *`Use of this software releases the author of all liability caused unto your system hardware, network appliances, soul, first born child, and/or marriage`*
+
+## Credits and Attributions
+
+- Eric W (@Brontide)
+- Felix Kaiser (@fxkr)
+- Jeffery Kog (@jefferykog)
