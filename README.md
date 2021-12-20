@@ -10,6 +10,6 @@ Extremely WIP plugin and by no means guaranteed to be safe whatsoever, use as yo
 
 ## Credits and Attributions
 
-- Eric W (@Brontide)
-- Felix Kaiser (@fxkr)
-- Jeffery Kog (@jefferykog)
+- Eric W, @Brontide
+- Felix Kaiser, @fxkr
+- Jeffery Kog, @jefferykog
